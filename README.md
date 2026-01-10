@@ -3,6 +3,12 @@ Software engineers have for decades taken for granted that demand for our servic
 
 In this talk, we'll learn about unionization efforts across the tech industry. We'll talk about the realities of unions, both the good and the bad. You'll leave with an understanding of the various steps in forming a union, all the way from recognition to ratification and beyond. And, who knows, maybe you'll get to negotiate a contract with an AI when it replaces the C-suite at your employer.
 
+# Resources
+- CODE-CWA Organizer Training: https://code-cwa.org/upcoming-trainings
+- EWOC: https://workerorganizing.org/training/
+- Unite & Win Podcast: https://podcasts.apple.com/us/podcast/unite-and-win-a-guide-to-workplace-organizing/id1866713309
+- Kickstarter United Oral History Podcast: https://kickstarterunited.org/oral-history/
+
 # Citations
 - Blanc, Eric. _We Are the Union: How Worker-to-Worker Organizing Is Revitalizing Labor and Winning Big_. Univ of California Press, 2025.
 - Committee, Emergency Workplace Organizing. _Unite and Win: The Workplace Organizer’s Handbook_. Haymarket Books, 2024.
